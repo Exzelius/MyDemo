@@ -1,3 +1,3 @@
 # MyDemo
-My first git Repo
+My first git Repository.
 Author - Anshul Patil
